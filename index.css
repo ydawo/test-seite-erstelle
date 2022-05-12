@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+}
+nav {
+  background-color: orangered;
+  top: 0;
+  position: fixed;
+  width: 100%;
+  padding: 10px;
+  display: inline-block;
+  font-size: 60px;
+  word-spacing: 30px;
+  padding-left: 50px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+a:hover {
+  color: red;
+  background-color: #fff;
+  border-radius: 10px;
+}
+img {
+  margin-left: 50%;
+}
+section {
+  margin: 100px;
+  text-align: center;
+}
+h1 {
+  font-size: 100px;
+}
+p {
+  font-size: 30px;
+  font-family: "Petit Formal Script", cursive;
+}
+footer {
+  background-color: orangered;
+  font-size: 50px;
+  bottom: 0%;
+  position: fixed;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+}
